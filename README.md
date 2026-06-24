@@ -39,7 +39,7 @@ Running alongside this, in the background: the **IAM Role** grants Lambda perm
 - AWS CLI installed and configured
 - `pip3` installed locally (used by Terraform to bundle the `requests` dependency into the Lambda package)
 - Free OpenWeatherMap API key from openweathermap.org (optional — project supports a demo mode using mock data, requiring no key)
-- Estimated cost: $0.05–$0.20 per month for low-volume hourly usage (Lambda requests + SNS messages)
+- Estimated cost: €0.05–€0.20 per month for low-volume hourly usage (Lambda requests + SNS messages)
 
 ## Tools & Services Used
 
